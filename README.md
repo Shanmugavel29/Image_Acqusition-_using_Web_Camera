@@ -1,4 +1,4 @@
-# Image_Acqusition-_using_Web_Camera
+[# Image_Acqusition-_using_Web_Camera
 ## Aim
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
@@ -135,3 +135,4 @@ cv2.destroyAllWindows()
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
+](https://github.com/Shanmugavel29/Image_Acqusition-_using_Web_Camera)
